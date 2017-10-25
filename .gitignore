@@ -1,0 +1,8 @@
+.DS_Store
+
+# Java compiled files
+*.class
+
+# input and output files
+input.txt
+output.txt
